@@ -27,7 +27,7 @@ Du kan också ladda ner MongoDB Compass som ett GUI för att hantera din databas
 För att koppla upp och använda funktioner mot databasen använder du
 MongodDB Node.js Driver:
 
-* Officiel dokumentation: [https://www.npmjs.com/package/mongodb](https://www.w3schools.com/nodejs/nodejs_mongodb.asp)
+* Officiell dokumentation: [https://www.npmjs.com/package/mongodb](https://www.w3schools.com/nodejs/nodejs_mongodb.asp)
 * Alternativ dokumentaion: [https://www.w3schools.com/nodejs/nodejs_mongodb.asp](https://www.w3schools.com/nodejs/nodejs_mongodb.asp)
 
 ### 👉 Din uppgift
